@@ -1,5 +1,5 @@
+version: "3"
 services:
-  softy-pinko-back-end:
     build: 
       context: ./back-end
       dockerfile: Dockerfile
